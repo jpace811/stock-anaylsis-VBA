@@ -24,8 +24,9 @@ In regard to refracted code versus original, the refracted code was faster to pr
 
 ***2018 Original Script Original_2018.PNG***<br />
 
-![name-of-your-image](https://github.com/jpace811/stock-anaylsis-VBA/blob/main/Resources/Original_2018.png)<br />
-
+![name-of-your-image](https://github.com/jpace811/stock-anaylsis-VBA/blob/main/Original_2018.png)<br />
+ <br />
+ <br />
 ### Summary  <br />
 In a summary statement, address the following questions:
 1. What are the advantages or disadvantages of refactoring code? <br />
